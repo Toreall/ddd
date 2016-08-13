@@ -1,3 +1,3 @@
-def word(n)
+def word(n):
     n = n**2
     print(n)
